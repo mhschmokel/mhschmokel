@@ -6,7 +6,7 @@ I'm always looking for knowledge and learning from every area
 
 - 🏫 I'm currently studying Computer Science at UNISINOS (Universidade do Vale do Rio dos Sinos)
 - 📖 I love to read, mainly Science Fiction and Fantasy books
-- 💬 A sentence that inspires me: 
+- 💬 A quote that inspires me: 
 
     "No man ever steps in the same river twice, for it's not the same river and he's not the same man." - Heraclitus
 
